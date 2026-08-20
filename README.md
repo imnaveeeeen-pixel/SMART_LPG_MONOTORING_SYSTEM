@@ -43,10 +43,6 @@ Load Cell → HX711 → ESP32 → Blynk IoT
 
 ## Project Images
 
-### Hardware Setup
-
-![LPG Monitoring System](images/lpg-system.jpg)
-
 ### Circuit
 
 ![Circuit Diagram](images/circuit.jpg)
