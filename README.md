@@ -55,6 +55,10 @@ Load Cell → HX711 → ESP32 → Blynk IoT
 
 ![Blynk Dashboard](gas_measurement_blynk.png)
 
+### Source Code
+
+![Source Code](
+
 ## Working
 
 The load cell measures the weight of the LPG cylinder. The HX711 amplifies and converts the load-cell signal, which is then processed by the ESP32.
