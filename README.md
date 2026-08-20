@@ -47,7 +47,7 @@ Load Cell → HX711 → ESP32 → Blynk IoT
 
 ![Circuit Diagram](gas_measurement.png)
 
-###Gas Leakage
+### Gas Leakage
 
 ![Gas Leakage](gas_leakage.png)
 
