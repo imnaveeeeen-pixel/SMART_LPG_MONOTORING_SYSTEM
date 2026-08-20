@@ -45,7 +45,7 @@ Load Cell → HX711 → ESP32 → Blynk IoT
 
 ### Circuit
 
-![Circuit Diagram](images/circuit.jpg)
+![Circuit Diagram](gas_measurement.png)
 
 ### Blynk Dashboard
 
